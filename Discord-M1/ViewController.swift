@@ -21,9 +21,11 @@ class ViewController: NSViewController, WKUIDelegate {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        webView.customUserAgent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15"
         let url = URL(string: "https://www.discord.com")!
         webView.load(URLRequest(url: url))
         webView.allowsBackForwardNavigationGestures = true
+        CGRequestScreenCaptureAccess()
     }
 }
 

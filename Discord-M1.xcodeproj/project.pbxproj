@@ -274,6 +274,7 @@
 				CODE_SIGN_ENTITLEMENTS = "Discord-M1/Discord_M1.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = QA7Z344FHH;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = "Discord-M1/Info.plist";
@@ -281,7 +282,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				MARKETING_VERSION = 0.2.0;
+				MARKETING_VERSION = 0.5;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.SuchiraJay.Discord-M1";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -296,6 +297,7 @@
 				CODE_SIGN_ENTITLEMENTS = "Discord-M1/Discord_M1.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = QA7Z344FHH;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = "Discord-M1/Info.plist";
@@ -303,7 +305,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				MARKETING_VERSION = 0.2.0;
+				MARKETING_VERSION = 0.5;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.SuchiraJay.Discord-M1";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
