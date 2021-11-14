@@ -1,8 +1,8 @@
 # Discord-M1
-A native version of the Discord web app for Apple Silicon Macs.
+A native version of the Discord web app for Apple Silicon Macs
 
-# Info
-Currently in Development
+# Notes
+Currently you do not have the ability to screen share
 
 # Installation
 - Download the latest version from [releases](https://github.com/Such815/Discord-M1/releases)
