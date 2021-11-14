@@ -6,4 +6,4 @@ Currently in Development
 
 # Installation
 - Download the latest version from [releases](https://github.com/Such815/Discord-M1/releases)
-- Open the dmg the drag the app into the applications folder
+- Open the dmg the drag and app into the applications folder
