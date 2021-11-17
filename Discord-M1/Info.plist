@@ -37,5 +37,7 @@
 	<string>$(PRODUCT_NAME) microphone use</string>
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
+	<key>CGRequestScreenCaptureAccess</key>
+	<string>$(PRODUCT_NAME) screen capture</string>
 </dict>
 </plist>
