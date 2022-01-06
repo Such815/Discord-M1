@@ -1,3 +1,7 @@
+# Notice 
+Official Discord apple silicon support [Discord Datamining Commit](https://github.com/Discord-Datamining/Discord-Datamining/commit/cf43286bc1be830dcacc3d5581d95de642218ace)<br/><br/>
+If you wanted to though, you could still use this
+
 # Discord-M1
 A native version of the Discord web app for Apple Silicon Macs
 
